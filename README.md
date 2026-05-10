@@ -2,6 +2,7 @@
 ## End-to-End Python → Tableau Pipeline
 
 ---
+![Uganda Telecom Twitter Analysis Dashboard](image/Twitter_Sentiment_Analysis.png)
 
 ## QUICK START
 
@@ -113,3 +114,58 @@ The pipeline classifies each tweet into one or more of:
 - Infrastructure
 - App & USSD
 - Fraud & Security
+
+---
+
+## INSIGHTS AND RECOMMENDATIONS
+
+### Key Findings from Sentiment Analysis
+
+**Overall Sentiment Comparison:**
+- MTN Uganda shows slightly higher positive sentiment in network reliability and coverage areas
+- Airtel Uganda performs better in promotional offers and night data deals
+- Both providers face significant challenges with mobile money transaction reliability
+
+**Top Pain Points:**
+1. **Network Congestion & Coverage:** Frequent complaints about dropped calls and poor coverage in urban areas like Nakawa and Ntinda
+2. **Mobile Money Failures:** High volume of failed transactions and agent unavailability issues
+3. **Data Deduction Issues:** Users reporting unexplained data usage and billing discrepancies
+4. **USSD/App Reliability:** Portal crashes and error messages during balance checks and registrations
+
+**Topic Distribution:**
+- Network & Coverage: 35% of negative sentiments
+- Mobile Money: 28% of complaints
+- Internet & Data: 20% of issues
+- Customer Care: 17% of feedback
+
+### Strategic Recommendations
+
+**For MTN Uganda:**
+- Invest in network infrastructure upgrades, particularly in high traffic urban zones
+- Improve mobile money transaction success rates through better agent training and system reliability
+- Address data billing transparency issues with clearer usage notifications
+- Enhance customer care response times for technical issues
+
+**For Airtel Uganda:**
+- Strengthen network stability to reduce dropped calls and congestion
+- Expand mobile money agent network and improve transaction reliability
+- Capitalize on successful promotions by maintaining consistent service quality
+- Develop better data plans with more transparent pricing
+
+**Industry-Wide Improvements:**
+- Implement real time network monitoring and proactive issue resolution
+- Enhance mobile money security and transaction speed
+- Provide better customer education on service usage and troubleshooting
+- Invest in 5G infrastructure to meet growing data demands
+
+**Data-Driven Decision Making:**
+- Use sentiment trends to prioritize infrastructure investments
+- Monitor competitor performance weekly to identify market opportunities
+- Track customer satisfaction by region to target service improvements
+- Leverage positive sentiment topics for marketing campaigns
+
+---
+
+## LICENSE
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
